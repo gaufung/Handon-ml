@@ -1,3 +1,5 @@
+![](./DimensionalityReduction.png)
+
 # Exercise
 
 ## 1
