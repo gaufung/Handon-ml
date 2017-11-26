@@ -25,3 +25,5 @@ Learning Note about *Hands-On Machine Learning with Scikit-Learn & TensorFlow*
 - [Chapter 10: Introduction to Artificial Neural Network](./Chapter10/README.md)
 
 - [Chapter 11: Training Deep Neural Nets](./Chapter11/README.md)
+
+- [Chapter 13: Convolutional Neural Network](./Chapter13/README.md)
