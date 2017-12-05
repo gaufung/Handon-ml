@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
 tf_logs/
+*.meta
+*.data-*
+*.index
+checkpoint
