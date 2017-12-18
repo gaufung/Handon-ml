@@ -28,4 +28,6 @@ Learning Note about *Hands-On Machine Learning with Scikit-Learn & TensorFlow*
 
 - [Chapter 13: Convolutional Neural Network](./Chapter13/README.md)
 
+- [Chapter 14: Recurrent Neural Network](./Chapter14/README.md)
+
 - [Chapter 15: Autoencoders](./Chapter14/README.md)
