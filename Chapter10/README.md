@@ -4,7 +4,7 @@
 
 2. Why is it generally preferable to use a *Logistic Regression* classifier rather than a *Perception*? How can you tweak a Perception to make it equvalent to a Logistic Regression clasifier?
 
-*Perception* do not output a class probability, it just make predictions based ont hard threshold. If you change the activation function to the logistic function. And training it using *Gradient Descent* to minimize the loss.
+*Perception* do not output a class probability, it just make predictions based on the hard threshold. If you change the activation function to the logistic function. And training it using *Gradient Descent* to minimize the loss.
 
 3. Why was the logistic activation function a key ingredient in training the first MLPs?
 
@@ -45,7 +45,7 @@ m × 10
 
 **Y = relu(X × Wh + bh) * Wa + b0**
 
-6. How many neurons do you need in the output layer if you want to classify email into spam or ham? What activation function should you use in the output layer? If instead you want to tackle the MNIST, how many neurons do you need int the output layer, using what activation function? Answer the same questions for getting your network to predict housing prices as in Chapter 2?
+6. How many neurons do you need in the output layer if you want to classify email into spam or ham? What activation function should you use in the output layer? If instead you want to tackle the MNIST, how many neurons do you need in the output layer, using what activation function? Answer the same questions for getting your network to predict housing prices as in Chapter 2?
 
 Spam or ham : only one neuron and using logistic function
 
